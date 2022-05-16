@@ -1,6 +1,6 @@
-Name="Abhishek Tomar"
-Sid="21107007"
-dept="Mechanical Engineering"
+Name="Shlok Matha"
+Sid="21102081"
+dept="Civil Engineering"
 Cgpa="9.94"
 
 info='''
